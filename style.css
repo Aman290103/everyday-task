@@ -1,0 +1,194 @@
+.nav{
+      position: relative;
+}
+.nav-container{
+      align-items: center;
+      position: sticky;
+}
+.home{
+      margin: 5px;
+}
+.about{
+      margin-left: 5px;
+      margin-right: 5px;
+}
+.portfolio{
+      margin-left: 5px;
+      margin-right: 5px;
+}
+.contact{
+      margin-left: 5px;
+      margin-right: 5px;
+}
+.img1{
+      height: 600px;
+      width: 100%;
+     
+     
+}
+.hero-section{
+      position: relative;
+      display: flex;
+      justify-content:center ;
+      align-items: center;
+}
+.hero-section-middle{
+      display: flex;
+      justify-content: center;
+      position: absolute;
+      color: #fff;
+      background-color:black;
+      border: solid;
+      width: 300px;
+      height: 50px;
+      align-items: center;
+      font-weight: bold;
+      padding: 0;
+      border-color: black;
+      font-size: large;
+}
+.about-section{
+      display: flex;
+      justify-content: center;
+      margin-top: 40px;
+      
+}
+.about-description{
+      display: flex;
+      justify-content: center;
+      margin-top: 10px;
+      margin-left: 300px;
+      margin-right:300px;
+      font-size: 20px;
+      
+}
+.about-main{
+      display: flex;
+      margin-left: 300px;
+}
+.my-name{
+      display: flex;
+      justify-content: center;
+}
+.my-profile{
+      height: 500px;
+      width: 450px;
+      margin-top: 10px;
+}
+.myself{
+      display: flex;
+      margin-left: 50px;
+      margin-right: 300px;
+      font-size: 20px;
+}
+.chart-tittle{
+      display: flex;
+      justify-content: center;
+      margin-top: 40px;
+      
+
+}
+.My-skill{
+      display: flex;
+      align-self: self-start;
+      width: 100%;
+      background-color: grey;
+}     
+.Skills{
+      margin-left: 100px;
+      margin-right: 300px;
+      height: 300px;
+      width: 100%;
+}
+.skill-set{
+      display: flex;
+      align-self: self-start;
+      margin-bottom: 0;
+      align-items: center;
+     
+}
+.skill-fill{
+      height: 20px;
+      background-color: white;
+      width: 100%;
+      border-radius: 50px;
+      margin-right: 10px;
+      height: 20px;
+      background-color: white;
+}
+.level1{
+      display: flex;
+      align-items: center;
+      height: 20px;
+      width:90%;
+      background-color:#3b3939;
+      margin-top: 0;
+
+}
+.level2{
+      display: flex;
+      align-items: center;
+      height: 20px;
+      width: 65%;
+      background-color: #3b3939;
+      margin-top: 0;
+}
+.level3{
+      display: flex;
+      height: 20px;
+      width:80%;
+      background-color: #3b3939;
+      margin-top: 0;
+}
+.level{
+      margin-left: 5px;
+      justify-content: center;
+      border: none;
+      border-radius: 50px;
+      color: white;
+      padding: 0;
+      margin-left: 0;
+}
+.quarter-section{
+      display: flex;
+      justify-content: space-evenly;
+      height: 200px;
+      width: 100%;
+      background-color: #3b3939;
+      margin-top: 100px;
+      color: white;
+      padding: 0;
+}
+.Count{
+      font-size: 30px;
+      display: flex;
+      justify-content: center;
+      margin-bottom: 0;
+      padding-bottom: 0 ;
+}
+.achievments{
+      margin-top: 0;
+      padding-top: 0;
+      justify-content: center;
+      font-size: 25px;
+      font-weight: 300;
+}
+.portfolio-section{
+      position: relative;
+      display: flex;
+      color: white;
+      justify-content: center;
+      background-color: black;
+      height: 400px ;
+}
+.port-text{
+      margin-top: 200px;
+      font-weight: bold;
+      font-size: 50px;
+}
+.port-img{
+      height: 400px;
+      width: 100%;
+      opacity: 50%;
+      position: absolute;
+}
